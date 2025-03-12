@@ -28,7 +28,7 @@ return {
   ---@type Ollama.Config
   opts = {
     -- your configuration overrides
-    model = "llama3.2",
+    model = "gemma3",
     url = "http://127.0.0.1:11434",
   },
 }

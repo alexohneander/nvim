@@ -23,4 +23,10 @@ return {
   {
     "olimorris/onedarkpro.nvim",
   },
+  {
+    "tinted-theming/tinted-vim",
+  },
+  {
+    "rafi/awesome-vim-colorschemes",
+  },
 }
